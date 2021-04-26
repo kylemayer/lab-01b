@@ -2,6 +2,6 @@
 
 
 Type Type Type
-I everybody!
+Hi everybody!
 
 GiThUb
